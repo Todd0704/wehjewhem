@@ -1,0 +1,29 @@
+.social-title {
+  margin-top: 25px;
+  font-weight: bold;
+  color: #333;
+}
+.social a {
+  display: block;
+  margin: 8px 0;
+  padding: 12px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+.google { background: #db4437; }
+.facebook { background: #3b5998; }
+.yahoo { background: #410093; }
+.instagram { background: #e1306c; }
+.twitter { background: #1da1f2; }
+.tiktok { background: #000000; }
+<div class="social-title">Social Media</div>
+<div class="social">
+  <a href="https://google.com" class="google" target="_blank">Google</a>
+  <a href="https://facebook.com" class="facebook" target="_blank">Facebook</a>
+  <a href="https://yahoo.com" class="yahoo" target="_blank">Yahoo</a>
+  <a href="https://instagram.com" class="instagram" target="_blank">Instagram</a>
+  <a href="https://twitter.com" class="twitter" target="_blank">Twitter / X</a>
+  <a href="https://tiktok.com" class="tiktok" target="_blank">TikTok</a>
+</div>
